@@ -1,0 +1,1 @@
+require "last/sequel/version"
